@@ -1,0 +1,23 @@
+{
+  "name": "export-licenses",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "exl": "./bin/exl.js"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilanfrumer/export-licenses.git"
+  },
+  "dependencies": {
+    "chai": "^1.10.0",
+    "chalk": "^0.5.1",
+    "cli-table": "^0.3.1",
+    "colors": "^1.0.3",
+    "minimist": "^1.1.0",
+    "request": "^2.51.0"
+  }
+}

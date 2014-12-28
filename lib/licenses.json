@@ -1,0 +1,50 @@
+[
+  {
+    "name": "MIT",
+    "match": [
+      "Permission is hereby granted",
+      "http://www.opensource.org/licenses/mit-license",
+      "http://opensource.org/licenses/MIT"
+    ],
+    "url": "http://opensource.org/licenses/MIT"
+  },
+  {
+    "name": "BSD",
+    "match": "Redistribution and use in source and binary forms"
+  },
+  {
+    "name": "Apache 1.0",
+    "match": "This product includes software developed by the Apache Group",
+    "url": "http://www.apache.org/licenses/LICENSE-1.0"
+  },
+  {
+    "name": "Apache 1.1",
+    "match": "Redistribution and use in source and binary forms, with or without",
+    "url": "http://www.apache.org/licenses/LICENSE-1.1"
+  },
+  {
+    "name": "Apache 2.0",
+    "match": [
+      "TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION",
+      "http://www.apache.org/licenses/LICENSE-2.0"
+    ],
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+  },
+  {
+    "name": "WTF",
+    "match": "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE"
+  },
+  {
+    "name": "ISC",
+    "match": "Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted"
+  },
+  {
+    "name": "UNLICENSE",
+    "match": "Anyone is free to copy, modify, publish, use, compile, sell, or"
+  },
+  {
+    "name": "MIT*",
+    "fallback": true,
+    "match": ["MIT ©", "(MIT)", "\nMIT"]
+  }
+]
