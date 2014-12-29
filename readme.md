@@ -1,7 +1,7 @@
 ## Export Licenses
 
-- export a list of licenses for npm packages
-- export a list of licenses for bower packages
+- exports a list of licenses for npm packages
+- exports a list of licenses for bower packages
 - supported outputs: cli table / json / csv
 
 #### Installation:
@@ -18,3 +18,5 @@
 - Add more licences
 - Better detection of licences
 - Better documentation
+- Better error handling
+- Creae a Change log
