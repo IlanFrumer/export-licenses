@@ -3,8 +3,7 @@
     "name": "MIT",
     "match": [
       "Permission is hereby granted",
-      "http://www.opensource.org/licenses/mit-license",
-      "http://opensource.org/licenses/MIT"
+      "http://www.opensource.org/licenses/mit-license"
     ],
     "url": "http://opensource.org/licenses/MIT"
   },
