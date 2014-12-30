@@ -19,4 +19,4 @@
 - Better detection of licences
 - Better documentation
 - Better error handling
-- Creae a Change log
+- Create a Change log

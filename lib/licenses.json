@@ -44,6 +44,6 @@
   {
     "name": "MIT*",
     "fallback": true,
-    "match": ["MIT ©", "(MIT)", "\nMIT"]
+    "match": ["MIT ©", "(MIT)", " MIT "]
   }
 ]
