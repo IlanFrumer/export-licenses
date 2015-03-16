@@ -1,6 +1,6 @@
 {
   "name": "export-licenses",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "description": "",
   "bin": {
     "exl": "./bin/exl.js"
@@ -19,6 +19,7 @@
     "colors": "^1.0.3",
     "minimist": "^1.1.0",
     "q": "^1.1.2",
-    "request": "^2.51.0"
+    "request": "^2.51.0",
+    "semver": "^4.3.1"
   }
 }
